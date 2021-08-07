@@ -89,8 +89,8 @@ img.infos {
     display:block;
     max-height: 400px;
     object-fit: cover;
-    min-height: 200px;/* hauteur minimale en attendant que l image soit chargée*/
-    background-color: lightgray;/*couleur de fond en attendant le chargement*/
+    /*min-height: 200px; hauteur minimale en attendant que l image soit chargée*/
+    /*background-color: lightgray;couleur de fond en attendant le chargement*/
 }
 div.colonne {
     width:45%;
